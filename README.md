@@ -1,1 +1,1 @@
-# gan_fashion
+# DeConvolutional Generative Adversarial Networks (DCGAN) - Fashion Dataset
